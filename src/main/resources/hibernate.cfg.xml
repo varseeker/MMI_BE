@@ -5,9 +5,9 @@
     <session-factory>
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL10Dialect</property>
-        <property name="hibernate.connection.url">jdbc:postgresql://localhost/be_mmi_db</property>
-        <property name="hibernate.connection.username">postgres</property>
-        <property name="hibernate.connection.password">12345678</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://zjyphbunfcxeeg:8f58588f35c6c1a10b19ce35b9fd8e3f2d73c87fb74f7dcc22369cd823fd0916@ec2-54-225-203-79.compute-1.amazonaws.com:5432/dard1gbifhklsp</property>
+        <property name="hibernate.connection.username">zjyphbunfcxeeg</property>
+        <property name="hibernate.connection.password">8f58588f35c6c1a10b19ce35b9fd8e3f2d73c87fb74f7dcc22369cd823fd0916</property>
         <!--        <property name="hibernate.show_sql">true</property>-->
         <!--        <property name="hibernate.hbm2ddl.auto">update</property>-->
 
